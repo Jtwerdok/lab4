@@ -1,2 +1,3 @@
 # lab4
-- this is a file that does something
+- this program prints out the ratio of letters between your first name and last name
+- group memnbers: Matt Michaux and Jake 
