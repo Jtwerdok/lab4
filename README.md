@@ -21,3 +21,5 @@ Usage documentation
 
 How to contribute
 - push changes to github and the creator will approve or deny the git requests
+
+- group memnbers: Matt Michaux and Jake 
