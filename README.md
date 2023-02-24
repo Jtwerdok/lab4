@@ -20,4 +20,4 @@ Usage documentation
 
 
 How to contribute
-- push changes to github and the creator will approve or deny the git request
+- push changes to github and the creator will approve or deny the git requests
